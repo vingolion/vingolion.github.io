@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g., /blog
 url: "vingolion.github.io" # the base hostname & protocol for your site, e.g., http://example.com
 
 # Build settings
-theme: minima # theme used (minima is a default Jekyll theme)
+theme: hacker # theme used (minima is a default Jekyll theme)
 plugins:
   - jekyll-feed # optional, for generating an RSS feed
 
