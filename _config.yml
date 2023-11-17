@@ -12,6 +12,6 @@ plugins:
 # Optional settings
  
 # Markdown settings
-markdown: redcarpet
+markdown: kramdown
 kramdown:
-  input: GFM # GitHub Flavored Markdown
+    math_engine: katex
