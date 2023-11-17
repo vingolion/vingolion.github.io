@@ -35,7 +35,13 @@
          fsad
          f
          asfasdf
-
+\[
+\sigma
+\]
+$\sigma$
+$$\sigma$$
+\(\sigma
+\)
 ```math
 \sqrt{3}
 
