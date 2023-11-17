@@ -4,8 +4,8 @@
 ## Esto es una prueba
 
 ```math
-\sum_{i} f(i)=S
-```
+\sqrt{3}
+.```
 ```
 for i in range(10):...
 
