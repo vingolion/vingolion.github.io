@@ -1,6 +1,6 @@
 #Vingolion
 ##Esto es una prueba
-```latex
+```math
 \sqrt{3}
 
 
