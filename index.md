@@ -1,12 +1,12 @@
 #Vingolion
 ##Esto es una prueba
-```math
+```latex
 \sqrt{3}
 
 
 ```
 
-```
+```python
 for i in range(10):...
 
 ```
