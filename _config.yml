@@ -1,3 +1,17 @@
-title: Vingolia
-logo: /assets/dogetai.jpg
-theme: jekyll-theme-minimal
+# Site settings
+title: Your Site Title
+description: A short description of your site's purpose.
+baseurl: "" # the subpath of your site, e.g., /blog
+url: "vingolion.github.io" # the base hostname & protocol for your site, e.g., http://example.com
+
+# Build settings
+theme: minima # theme used (minima is a default Jekyll theme)
+plugins:
+  - jekyll-feed # optional, for generating an RSS feed
+
+# Optional settings
+ 
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub Flavored Markdown
