@@ -10,8 +10,8 @@ plugins:
   - jekyll-feed # optional, for generating an RSS feed
 
 # Optional settings
- 
+ mathjax: true
 # Markdown settings
 markdown: kramdown
 kramdown:
-    math_engine: katex
+    math_engine: mathjax
