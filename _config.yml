@@ -12,6 +12,6 @@ plugins:
 # Optional settings
  
 # Markdown settings
-markdown: kramdown
+markdown: redcarpet
 kramdown:
   input: GFM # GitHub Flavored Markdown
