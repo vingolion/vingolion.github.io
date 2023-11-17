@@ -3,16 +3,7 @@
  ] dfjkafjksla f
   dfksajf kd  
    dfklajsfjk
-    dfjksadfkl 
-     ajkasdjsdkflja
-      asdjfksadjfsdkfjl
-       {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
-       jdf ksjfkldfjaskldf
-       fof ori fjf kldjf jcor fdnkf kfdfl
-        jk jkdj lf
-         djksdj ksdf
+mathjax: true
          f kfsjfkslf
          f lkfjskdflj kdfjfd
          f djskfjdfkffld;ask fasd \
