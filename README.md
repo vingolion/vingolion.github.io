@@ -41,6 +41,10 @@
 $\sigma$
 $$\sigma$$
 \(\sigma \)
+
+\[\begin{aligned}
+E = mc^2
+\end{aligned}\]
 ```math
 \sqrt{3}
 
