@@ -1,6 +1,6 @@
 # Site settings
-title: Your Site Title
-description: A short description of your site's purpose.
+title: Cronicas Vingoleonicas
+description: Una exploración en el mundo de la complejidad.
 baseurl: "" # the subpath of your site, e.g., /blog
 url: "vingolion.github.io" # the base hostname & protocol for your site, e.g., http://example.com
 
